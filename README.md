@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 6 2018
 
 ### Student Name:  
-(First and Last Name)
+Meghan Bertig
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I used an API along with jquery to produce movie information.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/meghanbertig/lesson8_ajax/settings
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. It is extremely easy to implement APIs into your program.
+2. AJAX is able to load data without refreshing the page.
+3. JSON transmits data between the server and web applications.
+4. The client sends HTTP requests and the server provides HTTP responses. 
+5. The developer console provides useful analytics for coders. 
