@@ -13,7 +13,7 @@ Meghan Bertig
 In this assignment, I used an API along with jquery to produce movie information.
 
 ### View Project:
-https://github.com/meghanbertig/lesson8_ajax/settings
+https://github.com/meghanbertig/lesson8_ajax
 
 ### Lessons Learned in the Assignment:
 1. It is extremely easy to implement APIs into your program.
